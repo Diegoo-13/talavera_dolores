@@ -1,0 +1,23 @@
+name: talavera_dolores
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  crypto: ^3.0.8
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^11.2.0
+  model_viewer_plus: ^1.10.0
+  shared_preferences: ^2.5.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
