@@ -68,3 +68,11 @@
 
 ## Ronda 11
 <img width="1107" height="1002" alt="R11" src="https://github.com/user-attachments/assets/bc2ac6cf-3735-4cae-b65a-ab81b5e6ba9a" />
+
+## Ejecución
+<img width="1080" height="2340" alt="Screenshot_20261115_043245" src="https://github.com/user-attachments/assets/6a090f60-0d18-4587-88ff-db4bbf0c02fd" />
+<img width="1080" height="2340" alt="Screenshot_20261115_043239" src="https://github.com/user-attachments/assets/a830e179-caaa-40db-9dbd-f9a6cd6e306d" />
+<img width="1080" height="2340" alt="Screenshot_20261115_043234" src="https://github.com/user-attachments/assets/bebab58b-297e-41d1-866f-9d00fad5571b" />
+<img width="1080" height="2340" alt="Screenshot_20261115_043304" src="https://github.com/user-attachments/assets/5790dd36-52da-4cce-b9f6-729b9f9ee7e4" />
+<img width="1080" height="2340" alt="Screenshot_20261115_043311" src="https://github.com/user-attachments/assets/709a027c-996f-432f-9726-bba97d92a95c" />
+
